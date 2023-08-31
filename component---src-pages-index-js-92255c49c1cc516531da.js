@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_thankyou_card=self.webpackChunkgatsby_thankyou_card||[]).push([[678],{6558:function(e,t,n){n.r(t),n.d(t,{Head:function(){return l}});var a=n(7294);const l=()=>a.createElement("title",null,"Home Page");t.default=()=>a.createElement("main",null,a.createElement("h1",null,"Nothing to see here"))}}]);
+//# sourceMappingURL=component---src-pages-index-js-92255c49c1cc516531da.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_thankyou_card=self.webpackChunkgatsby_thankyou_card||[]).push([[883],{429:function(e,a,t){t.r(a);var n=t(7294);a.default=()=>n.createElement("main",null,n.createElement("h1",null,"404"))}}]);
+//# sourceMappingURL=component---src-pages-404-js-3d6e8f8b0e642a649e67.js.map
